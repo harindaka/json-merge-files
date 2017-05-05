@@ -1,0 +1,25 @@
+{
+  "name": "json-merge-files",
+  "version": "1.0.1",
+  "description": "Merges two json files and outputs to another with pretty print support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemal Harindaka",
+  "license": "MIT",
+  "bin": {
+    "json-merge-files": "./index.js"
+  },
+  "dependencies": {
+    "merge": "1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harindaka/json-merge-files.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harindaka/json-merge-files/issues"
+  },
+  "homepage": "https://github.com/harindaka/json-merge-files#readme"
+}
